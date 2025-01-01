@@ -1,6 +1,6 @@
-Hi there 👋, I'm Oumayma Hadj Yahia, holding a Master's degree in Software Engineering.
+Hi👋, I'm Oumayma Hadj Yahia, holding a Master's degree in Software Engineering.
 
-- 🌱 Exploring more about AI/ML and how it can be integrated into web applications.
+- 🌱 I’m currently learning more about UI/UX design and how it can be integrated into web applications.
 - 🌍 [LinkedIn](https://www.linkedin.com/in/hadj-yahia-oumayma-0879081a1/)
 
 <!--
