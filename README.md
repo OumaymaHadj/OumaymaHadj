@@ -1,4 +1,9 @@
-## Hi there 👋
+# Oumayma Hadj Yahia
+
+Hi there 👋, I'm Oumayma Hadj Yahia, holding a Master's degree in Software Engineering.
+
+🌱 Exploring more about AI/ML and how it can be integrated into web applications.
+🌍 Find me around the web: [LinkedIn]([your-linkedin-profile](https://www.linkedin.com/in/hadj-yahia-oumayma-0879081a1/)
 
 <!--
 **OumaymaHadj/OumaymaHadj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
